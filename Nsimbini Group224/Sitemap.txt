@@ -1,0 +1,19 @@
+Home
+│
+├── About Us
+│   ├── Our Story
+│   ├── Mission & Vision
+│   └── Team
+│
+├── Portfolio
+│   ├── Projects
+│   ├── Case Studies
+│   └── Client Testimonials
+
+Visual Tree Representation
+        Home
+       /    \
+ About Us   Portfolio
+    |           |
+  Team       Projects
+  
